@@ -1,0 +1,19 @@
+Flask
+Flask-CORS
+Flask-SQLAlchemy
+# Flask-Migrate
+# Flask-RESTful
+# Flask-JWT-Extended
+# Flask-SocketIO
+python-dotenv
+streamlit
+langchain-core
+langchain-community
+huggingface-hub
+langchain_google_genai
+google-api-python-client
+google-auth
+google-auth-httplib2
+google-auth-oauthlib
+requests
+langgraph
